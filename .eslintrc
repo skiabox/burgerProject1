@@ -1,0 +1,8 @@
+{
+    "extends": ["react-app", "plugin:prettier/recommended"]
+}
+
+// plugin:prettier/recommended does three things
+// Enables eslint-plugin-prettier
+// Sets the prettier/prettier rule to "error"
+// Extends the eslint-config-prettier configuration
